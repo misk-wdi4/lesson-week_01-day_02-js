@@ -42,4 +42,4 @@ var fahrenheit=(celsiusTemperature * 1.8) + 32;
 console.log(celsiusTemperature+' °C is '+ fahrenheit+' °F ') 
 
 celsiusTemperature= ( fahrenheit- 32) * .5556; 
-console.log(celsiusTemperature+' °C is '+ fahrenheit+' °F ') ;
+console.log(fahrenheit+' °F is '+ celsiusTemperature+' °C ') ;
